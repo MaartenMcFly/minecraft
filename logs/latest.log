@@ -1,0 +1,41 @@
+[11:40:44] [Server thread/INFO]: Starting minecraft server version 1.7.9
+[11:40:44] [Server thread/INFO]: Loading properties
+[11:40:44] [Server thread/INFO]: Default game type: ADVENTURE
+[11:40:44] [Server thread/INFO]: Generating keypair
+[11:40:44] [Server thread/INFO]: Starting Minecraft server on *:25566
+[11:40:45] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.9-R0.1-2-g1e4dcde-b3086jnks (MC: 1.7.9) (Implementing API version 1.7.9-R0.2-SNAPSHOT)
+[11:40:46] [Thread-20/INFO]: ----- Bukkit Auto Updater -----
+[11:40:46] [Thread-20/INFO]: It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+[11:40:46] [Thread-20/INFO]: If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+[11:40:46] [Thread-20/INFO]: With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+[11:40:46] [Thread-20/INFO]: If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+[11:40:46] [Thread-20/INFO]: ----- ------------------- -----
+[11:40:46] [Server thread/INFO]: [Essentials] Loading Essentials v2.13.1
+[11:40:46] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.13.1
+[11:40:46] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.13.1
+[11:40:46] [Server thread/INFO]: Preparing level "world"
+[11:40:46] [Server thread/INFO]: Preparing start region for level 0 (Seed: -3293664660276503964)
+[11:40:47] [Server thread/INFO]: Preparing spawn area: 5%
+[11:40:48] [Server thread/INFO]: Preparing spawn area: 34%
+[11:40:49] [Server thread/INFO]: Preparing spawn area: 68%
+[11:40:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: -3293664660276503964)
+[11:40:51] [Server thread/INFO]: Preparing spawn area: 60%
+[11:40:52] [Server thread/INFO]: Preparing start region for level 2 (Seed: -3293664660276503964)
+[11:40:53] [Server thread/INFO]: [Essentials] Enabling Essentials v2.13.1
+[11:40:55] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[11:40:55] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[11:40:55] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.13.1
+[11:40:55] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.13.1
+[11:40:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:40:55] [Server thread/INFO]: Done (8,987s)! For help, type "help" or "?"
+[11:41:08] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[11:41:08] [Server thread/INFO]: Stopping server
+[11:41:08] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.13.1
+[11:41:08] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.13.1
+[11:41:08] [Server thread/INFO]: [Essentials] Disabling Essentials v2.13.1
+[11:41:08] [Server thread/INFO]: Saving players
+[11:41:08] [Server thread/INFO]: Saving worlds
+[11:41:08] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[11:41:09] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[11:41:09] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[11:41:10] [Thread-15/INFO]: Stopping server
